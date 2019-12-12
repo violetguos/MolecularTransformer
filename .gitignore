@@ -1,3 +1,9 @@
+# DATA AND model checkpotins
+experiments/
+data 2/
+*_Dataset/
+*.zip
+
 # repo-specific stuff
 pred.txt
 multi-bleu.perl
